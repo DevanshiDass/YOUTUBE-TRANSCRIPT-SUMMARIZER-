@@ -15,14 +15,6 @@ This Streamlit-powered web app allows users to paste a YouTube video link and au
 
 ---
 
-## 🚀 Demo
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Add+your+Streamlit+Cloud+link+here)
-
-Try it live on [Streamlit Cloud](https://share.streamlit.io/...) (replace this link once deployed).
-
----
-
 ## 🛠️ Tech Stack
 
 - `Python 3.8+`
